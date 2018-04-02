@@ -1,3 +1,4 @@
-﻿  SnakeGame.cpp
-z:\users\user\documents\github\snakegame\snakegame.cpp(21): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+﻿  Game.cpp
+  SnakeGame.cpp
+  Gerando Código...
   SnakeGame.vcxproj -> z:\Users\User\Documents\GitHub\SnakeGame\Debug\SnakeGame.exe
